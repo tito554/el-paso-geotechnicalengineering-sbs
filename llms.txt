@@ -1,0 +1,51 @@
+# Geotechnicalengineering — El Paso
+
+> Geotechnical engineering services in El Paso, United States.
+
+## Services
+- [Anchors](https://el-paso.geotechnicalengineering.sbs/anchors/)
+- [Atterberg Limits](https://el-paso.geotechnicalengineering.sbs/atterberg-limits/)
+- [Cbr Road](https://el-paso.geotechnicalengineering.sbs/cbr-road/)
+- [Cpt Test](https://el-paso.geotechnicalengineering.sbs/cpt-test/)
+- [Deep Excavations](https://el-paso.geotechnicalengineering.sbs/deep-excavations/)
+- [Excavation Monitoring](https://el-paso.geotechnicalengineering.sbs/excavation-monitoring/)
+- [Excavations](https://el-paso.geotechnicalengineering.sbs/excavations/)
+- [Flexible Pavement](https://el-paso.geotechnicalengineering.sbs/flexible-pavement/)
+- [Footings](https://el-paso.geotechnicalengineering.sbs/footings/)
+- [Foundations](https://el-paso.geotechnicalengineering.sbs/foundations/)
+- [Grain Size](https://el-paso.geotechnicalengineering.sbs/grain-size/)
+- [Ground Improvement](https://el-paso.geotechnicalengineering.sbs/ground-improvement/)
+- [Grouting](https://el-paso.geotechnicalengineering.sbs/grouting/)
+- [In Situ Permeability](https://el-paso.geotechnicalengineering.sbs/in-situ-permeability/)
+- [Investigation](https://el-paso.geotechnicalengineering.sbs/investigation/)
+- [Lab In Situ](https://el-paso.geotechnicalengineering.sbs/lab-in-situ/)
+- [Laboratory](https://el-paso.geotechnicalengineering.sbs/laboratory/)
+- [Liquefaction](https://el-paso.geotechnicalengineering.sbs/liquefaction/)
+- [Masw](https://el-paso.geotechnicalengineering.sbs/masw/)
+- [Mat Foundations](https://el-paso.geotechnicalengineering.sbs/mat-foundations/)
+- [Piles](https://el-paso.geotechnicalengineering.sbs/piles/)
+- [Proctor Tests](https://el-paso.geotechnicalengineering.sbs/proctor-tests/)
+- [Resistivity](https://el-paso.geotechnicalengineering.sbs/resistivity/)
+- [Retaining Walls](https://el-paso.geotechnicalengineering.sbs/retaining-walls/)
+- [Rigid Pavement](https://el-paso.geotechnicalengineering.sbs/rigid-pavement/)
+- [Road Geotechnics](https://el-paso.geotechnicalengineering.sbs/road-geotechnics/)
+- [Sand Cone Density](https://el-paso.geotechnicalengineering.sbs/sand-cone-density/)
+- [Seismic](https://el-paso.geotechnicalengineering.sbs/seismic/)
+- [Seismic Isolation](https://el-paso.geotechnicalengineering.sbs/seismic-isolation/)
+- [Seismic Microzonation](https://el-paso.geotechnicalengineering.sbs/seismic-microzonation/)
+- [Seismic Refraction](https://el-paso.geotechnicalengineering.sbs/seismic-refraction/)
+- [Slope Stability](https://el-paso.geotechnicalengineering.sbs/slope-stability/)
+- [Slopes](https://el-paso.geotechnicalengineering.sbs/slopes/)
+- [Soft Ground Tunnels](https://el-paso.geotechnicalengineering.sbs/soft-ground-tunnels/)
+- [Spt Drilling](https://el-paso.geotechnicalengineering.sbs/spt-drilling/)
+- [Stone Columns](https://el-paso.geotechnicalengineering.sbs/stone-columns/)
+- [Test Pits](https://el-paso.geotechnicalengineering.sbs/test-pits/)
+- [Triaxial](https://el-paso.geotechnicalengineering.sbs/triaxial/)
+- [Vibrocompaction](https://el-paso.geotechnicalengineering.sbs/vibrocompaction/)
+
+## Contact
+- Website: https://el-paso.geotechnicalengineering.sbs/
+
+## About
+This site provides geotechnical engineering services in El Paso, United States.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
